@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 
 ## Projects
-- [geemap}(https://geemap.org): A Python package for interactive mapping Google Earth Engine, ipyleaflet and ipywidgets.
-- [leefmap}(https://leefmap.org): Aphyton package for interactive mapping with folium ipyleaflet, and ipywidgets
+- [geemap](https://geemap.org): A Python package for interactive mapping Google Earth Engine, ipyleaflet and ipywidgets.
+- [leefmap](https://leefmap.org): Aphyton package for interactive mapping with folium ipyleaflet, and ipywidgets
 
 ## Demos
