@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## Introduction
 
 **klankaos/klankaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+
+## Projects
+- [geemap}(https://geemap.org): A Python package for interactive mapping Google Earth Engine, ipyleaflet and ipywidgets.
+
+## Demos
