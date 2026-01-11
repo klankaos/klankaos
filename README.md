@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 - [leefmap](https://leefmap.org): Aphyton package for interactive mapping with folium ipyleaflet, and ipywidgets
 
 ## Demos
+
+This is a funny face!
+
+![](https://i.gifer.com/embedded/download/4j.gif)
